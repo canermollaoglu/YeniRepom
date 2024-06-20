@@ -12,6 +12,7 @@ namespace WinFormsApp4
             MessageBox.Show("Deneme");
             MessageBox.Show("ikinci commit");
             string test = "deneme";
+            int a = 6;
         }
     }
 }
