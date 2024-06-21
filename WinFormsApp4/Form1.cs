@@ -29,6 +29,10 @@ namespace WinFormsApp4
             {
                 MessageBox.Show("Test");
             }
+            else
+            {
+                MessageBox.Show("Yanlýþ Cevap");
+            }
         }
     }
 }
