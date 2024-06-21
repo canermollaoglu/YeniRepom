@@ -42,6 +42,13 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // button2
+            // 
+            button2.Location = new Point(214, 68);
+            button2.Name = "button2";
+            button2.Size = new Size(75, 23);
+            button2.TabIndex = 0;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
