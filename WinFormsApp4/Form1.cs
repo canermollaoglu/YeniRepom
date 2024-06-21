@@ -18,7 +18,6 @@ namespace WinFormsApp4
         private void button2_Click(object sender, EventArgs e)
         {
             string yeniMesaj = "yeni bir mesaj ekliyoruz.";
-            int deger = 45;
         }
     }
 }
