@@ -23,6 +23,12 @@ namespace WinFormsApp4
         private void button2_Click_1(object sender, EventArgs e)
         {
             //burada sadece manager sýnýfý kullanýlarak kayýt iþlemi gerçekleþtirmen gerekiyor:
+            bool cvp = true;
+
+            if (cvp)
+            {
+                MessageBox.Show("Test");
+            }
         }
     }
 }
