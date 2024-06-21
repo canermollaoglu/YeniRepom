@@ -49,6 +49,7 @@
             button2.Size = new Size(75, 23);
             button2.TabIndex = 0;
             button2.Text = "Kaydet";
+            button2.Click += button2_Click_1;
             // 
             // Form1
             // 

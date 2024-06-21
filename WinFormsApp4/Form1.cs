@@ -19,5 +19,10 @@ namespace WinFormsApp4
         {
             string yeniMesaj = "yeni bir mesaj ekliyoruz.";
         }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            //burada sadece manager sýnýfý kullanýlarak kayýt iþlemi gerçekleþtirmen gerekiyor:
+        }
     }
 }
