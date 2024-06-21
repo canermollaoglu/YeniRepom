@@ -14,5 +14,10 @@ namespace WinFormsApp4
             string test = "deneme";
             int a = 6;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string mesaj = $"Yeni bir mesaj yazýyoruz.";
+        }
     }
 }
