@@ -13,8 +13,6 @@ namespace WinFormsApp4
             MessageBox.Show("ikinci commit");
             string test = "deneme";
             int a = 6;
-            int b = 7;
-            string cvp = a > b ? "Büyük" : "Küçük";
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -30,10 +28,6 @@ namespace WinFormsApp4
             if (cvp)
             {
                 MessageBox.Show("Test");
-            }
-            else
-            {
-                MessageBox.Show("Yanlýþ Cevap");
             }
         }
     }
